@@ -13,7 +13,7 @@ function TravelGuide() {
             name="Kyoto"
             time="Spring (March to May) & Autumn (September to November)"
             location="Japan"
-            img="/TravelGuide/img/kyoto.jpg"
+            img="/TravelGuide/blob/main/public/img/kyoto.jpg"
             description="Kyoto is the heart of Japan’s traditional culture. It’s famous for its stunning temples,
                         beautiful cherry blossoms in spring, and peaceful bamboo forests. You can explore old tea houses, watch
                         geishas in Gion, and enjoy authentic Japanese cuisine like matcha and ramen."
