@@ -1,4 +1,3 @@
-import React from "react";
 import CommentSection from "./CommentSection";
 
 interface Props {
