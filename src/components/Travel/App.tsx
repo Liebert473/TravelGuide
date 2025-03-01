@@ -1,6 +1,5 @@
 import "./App.css";
 import Item from "./Item";
-import React from "react";
 
 function TravelGuide() {
   return (
